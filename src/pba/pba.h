@@ -47,6 +47,7 @@
 //filetype definitions for points and camera
 #include "DataInterface.h"
 #include "ConfigBA.h"
+#include <stdlib.h>
 
 
 class ParallelBA
